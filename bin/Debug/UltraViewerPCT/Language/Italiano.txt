@@ -1,0 +1,91 @@
+Permetti il controllo
+Se desideri autorizzare il controllo da remoto comunica ai tuoi interlocutori i seguenti ID e Password
+Il tuo ID
+Password
+Password personale
+Controlla Computer Remoto
+Inserire l'ID del computer di cui effettuare il controllo remoto
+ID Remoto
+Password
+Connessione remota
+Riavvia per rendere effettive le impostazioni.
+File
+Extra
+Lingua
+Uscita
+Opzioni
+Pronto per la connessione
+Non posso connettermi a questo ID
+Connessione in time out
+Non è possibile catturare lo schermo, l'interlocutore ha fatto logout o cambiato utente o minimizzato il programma
+Password errata
+Il partner utilizza una versione più vecchia
+Il partner utilizza una versione più nuova
+Inserire l'ID remoto a cui connettersi
+L'ID deve essere un numero
+Inserisci la password del tuo interlocutore
+Sei già connesso a questo interlocutore
+Connessione all'interlocutore...
+Le password non corrispondono.
+La password deve essere di almeno 4 caratteri
+Personalizza il nome computer e la password
+Imposta un nome e una password per questo computer.
+Nome Computer
+Password
+Conferma Password
+Annulla
+Ok
+Chi sta visualizzando questo computer
+Il tuo client remoto
+Log della chat
+Richiesta ID ...
+Inizializza password ...
+Non posso ottere l'ID
+Non posso ottenere la password
+Aiuto
+Sito UltraViewer
+Info
+Attiva la Licenza
+Acquista la Licenza
+Versione:
+Licenza :
+La licenza non consente di gestire più computer (quota superata). Per proseguire è necessario acquistare ulteriori licenze.
+Seri-key Errata!
+Email o key errati!
+Non è possibile connettersi al server, si prega di riprovare
+Grazie per esservi registrati.
+Email errata!
+Email
+Seri-key 
+Questa versione è stata registrata da %1
+Rimuovi la licenza
+Sei sicuro di voler rimuovere la licenza ?
+Licenza rimossa con successo!
+ID Errato
+La licenza gratuita che si sta utilizzando è in grado di gestire %1 computer per ogni mese. Per controllare a distanza più computer, è necessario acquistare ulteriori quote.
+Inserire Key
+Acquista
+Attivazione licenza
+Inserisci il codice di licenza per utilizzare l'account commerciale.
+Hai inserito l'ID del tuo computer. Si prega di inserire l'ID di un computer remoto.
+Chiave di licenza non autorizzata per questo computer.
+Chiave di licenza disabilitata.
+Impossibile connettersi, il partner non ha aperto UltraViewer o non è connesso ad internet.
+Chiave di licenza eliminata dal sistema. Utilizzare Aiuto -> Attiva la Licenza per rimuovere questa licenza dal computer e installarne una nuova.
+Hotkey Personalizzato
+Imposta l'Hotkey per attivare/disattivare la chat
+Premi Hotkey(un tasto)
+Premi %1 per attivare/disattivare la chat
+Questa versione è vecchia e non può lavorare bene, abbiamo una nuova versione, scaricarla da http://ultraviewer.net/it/ e installa la versione più recente.
+Il collegamento tra l'utente e l'ID (%1) è stato perso. Volete provare a riconnettervi di nuovo?
+&Si
+&No
+La connessione è stata interrotta.\r\nAttendere %1 secondi ...
+Impostazioni di rete
+Impostazioni Proxy
+IP Proxy
+Porta
+Rileva automaticamente impostazioni (raccomandato)
+Nessun Proxy (accesso diretto a internet)
+Usa proxy SSL
+Ringraziare :

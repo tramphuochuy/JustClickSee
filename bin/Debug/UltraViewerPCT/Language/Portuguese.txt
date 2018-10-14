@@ -1,0 +1,91 @@
+Permitir Controle Remoto
+Por favor, diga ao seu parceiro o seguinte ID e senha caso você permita o controle remoto.
+Sua ID
+Senha
+Senha Personalizada
+Controle Remoto
+Por favor, informe a ID de seu Parceiro para controlar remotamente seu Computador.
+ID do Parceiro
+Senha
+Conecte ao Parceiro
+Por favor reinicie o aplicativo para ter efeito.
+Arquivo
+Extras
+Linguagem
+Sair
+Opções
+Disponível para conectar
+Não foi possível conectar ao parceiro
+Tempo de conexão expirado
+Não foi possível capturar a tela no momento, o parceiro efetuou logoff, mudou de utilizador ou minimizou a área de trabalho remota.
+Senha Incorreta
+O parceiro está usando uma versão anterior a sua
+O parceiro está usando uma versão mais recente que a sua
+Por favor, informe o ID do parceiro para conectar.
+O ID é composto apenas de números
+Por favor, informe a senha do parceiro.
+Você já esta conectado ao parceiro
+Conectando ao parceiro...
+As senhas não são iguais.
+A senha precisa ter 4 caracteres
+Personalizar senha e nome do Computador
+Escolha um nome e senha pessoal para esse computador.
+Nome do Computador
+Senha
+Senha (Novamente)
+Cancelar
+Ok
+Quem está vendo o seu computador
+Seu Cliente Remoto
+Log de Bate Papo
+Adquirindo minha ID...
+Iniciando minha senha...
+Não foi possível Adquirir uma ID
+Não foi possível iniciar sua senha
+Ajuda
+Site do Ultraviewer
+Sobre
+Ativar Licença
+Comprar Licença
+Versão:
+Licença:
+A licença que você está usando não permite adicionar mais computadores remotos (Limite excedido). Para controlar mais computadores remotos, adquira mais licenças.
+Chave errada!
+Email ou chave errada!
+Não foi possível conectar ao servidor, tente mais tarde!
+Obrigado por registrar-se.
+Email errado!
+Email
+Chave de ativação
+Essa versão está registrada para %1
+Excluir licença
+Você quer excluir essa licença?
+Licença removida com sucesso!
+ID Errada
+A licença gratuita que você está usando só é capaz de controle remoto de %1 computadores por mês. Para controle remoto mais computadores, para adquirir mais licenças.
+Informe a chave
+Compre agora
+Ativação de Licença
+Informe sua licença para uso comercial.
+Você inseriu a ID do seu próprio computador. Digite a ID de um computador remoto.
+Sua licença não está autorizada a ser utilizada neste computador.
+Sua licença é desativada.
+Não é possível conectar, o seu parceiro não abriu Ultraviewer ou não está conectado a internet agora.
+Sua licença foi excluída do sistema. Por favor, vá no menu Arquivo -> Ativar licença para remover esta licença do seu computador e instalar uma nova licença.
+Atalho personalizado
+Definir atalho para habilitar/desabilitar chat 
+Pressione uma tecla.
+Pressione %1 para habilitar/desabilitar chat.
+Sua versão é antiga e talvez não funcione bem, temos uma nova versão, por favor, baixe em http://ultraviewer.net/pt/ e instale a versão mais recente.
+A conexão com o parceiro (ID (%1)) foi perdida. Gostaria de tentar conectar novamente?
+&Sim
+&Não
+A conexão foi perdida. Aguarde %1 segundo(s)...
+Configurações de Rede
+Configurações de Proxy
+IP do Proxy
+Porta
+Detectar Configurações automaticamente (recomendado)
+Sem Proxy (Conexão direta à internet)
+Informar Proxy SSL Manualmente
+Cooperação:

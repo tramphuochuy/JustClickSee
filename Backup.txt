@@ -1,0 +1,243 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Windows.Forms;
+using System.Drawing;
+
+namespace GB
+{
+    class Backup
+    {
+        public List<Byte[]> ScreenToImageList_Cursor(int Fragment, int ScreenIndex)
+        {
+            List<Byte[]> L = new List<byte[]>();
+            Screen S = ListScreen[ScreenSelect];
+            if (ScreenSelect == 0) S = Screen.PrimaryScreen;
+            ScreenBoundX = S.Bounds.X;
+            try
+            {
+                Byte[] Data = null;
+                Bitmap bmp = DWindow.Capture_Cursor(S.Bounds.X, S.Bounds.Y, S.Bounds.Width, S.Bounds.Height);
+
+                int pading = bmp.Width % Fragment;
+                int SpaceWith = (int)((bmp.Width - pading) / Fragment);
+
+                for (int i = 1; i <= Fragment; i++)
+                {
+                    MemoryStream ms = new MemoryStream();
+                    Rectangle rect = new Rectangle((i - 1) * SpaceWith, 0, SpaceWith, bmp.Height);
+                    if (i == Fragment) rect = new Rectangle((i - 1) * SpaceWith, 0, SpaceWith + pading, bmp.Height);
+
+                    Bitmap F = bmp.Clone(rect, bmp.PixelFormat);
+
+                    if (QualityImage == 0) F.Save(ms, System.Drawing.Imaging.ImageFormat.Jpeg);
+                    if (QualityImage == 1) F.Save(ms, System.Drawing.Imaging.ImageFormat.Jpeg);
+                    if (QualityImage == 2) F.Save(ms, System.Drawing.Imaging.ImageFormat.Png);
+                    Data = ms.ToArray();
+                    L.Add(Data);
+
+                }
+
+            }
+            catch (Exception ex)
+            {
+
+                DBase.LogException(ex.ToString());
+
+            }
+
+            return L;
+        }
+        public Byte[] ScreenToImage()
+        {
+            Byte[] Data = null;
+            try
+            {
+                Bitmap bmp = new Bitmap(Screen.PrimaryScreen.Bounds.Width, Screen.PrimaryScreen.Bounds.Height, PixelFormat.Format32bppArgb);
+                var gfxScreenshot = Graphics.FromImage(bmp);
+                gfxScreenshot.CopyFromScreen(Screen.PrimaryScreen.Bounds.X, Screen.PrimaryScreen.Bounds.Y, 0, 0, Screen.PrimaryScreen.Bounds.Size, CopyPixelOperation.SourceCopy);
+
+                using (MemoryStream ms = new MemoryStream())
+                {
+                    if (Image_Scale > 1)
+                    {
+                        bmp = new Bitmap(bmp, new Size((int)(bmp.Width / Image_Scale), (int)(bmp.Height / Image_Scale)));
+                        //  bmp = DBase.ResizeImage(bmp, bmp.Width / Image_Scale, bmp.Height / Image_Scale);
+                    }
+
+                    if (QualityImage == 0)
+                    {
+                        bmp = GrayScale(bmp);
+                        bmp.Save(ms, System.Drawing.Imaging.ImageFormat.Jpeg);
+                    }
+                    if (QualityImage == 1)
+                    {
+
+                        bmp.Save(ms, System.Drawing.Imaging.ImageFormat.Jpeg);
+                    }
+                    if (QualityImage == 2) bmp.Save(ms, System.Drawing.Imaging.ImageFormat.Png);
+
+                    Data = ms.ToArray();
+                }
+            }
+            catch (Exception ex)
+            {
+
+                DBase.LogException(ex.ToString());
+
+            }
+
+            return Data;
+        }
+        public Bitmap ScreenToImage(bool toImage)
+        {
+
+            Bitmap bmp = new Bitmap(Screen.PrimaryScreen.Bounds.Width,
+                                           Screen.PrimaryScreen.Bounds.Height,
+                                           PixelFormat.Format32bppArgb);
+            var gfxScreenshot = Graphics.FromImage(bmp);
+            gfxScreenshot.CopyFromScreen(Screen.PrimaryScreen.Bounds.X, Screen.PrimaryScreen.Bounds.Y, 0, 0, Screen.PrimaryScreen.Bounds.Size, CopyPixelOperation.SourceCopy);
+
+
+
+            return bmp;
+        }
+        public Image ScreenToImage_BW()
+        {
+            Bitmap bmp = new Bitmap(Screen.PrimaryScreen.Bounds.Width,
+                                           Screen.PrimaryScreen.Bounds.Height,
+                                           PixelFormat.Format32bppArgb);
+            var gfxScreenshot = Graphics.FromImage(bmp);
+            gfxScreenshot.CopyFromScreen(Screen.PrimaryScreen.Bounds.X, Screen.PrimaryScreen.Bounds.Y, 0, 0, Screen.PrimaryScreen.Bounds.Size, CopyPixelOperation.SourceCopy);
+
+            bmp = GrayScale(bmp);
+
+            return bmp;
+
+        }
+        public Bitmap GrayScale(Bitmap Bmp)
+        {
+            int rgb;
+            Color c;
+
+            for (int y = 0; y < Bmp.Height; y++)
+                for (int x = 0; x < Bmp.Width; x++)
+                {
+                    c = Bmp.GetPixel(x, y);
+                    rgb = (int)((c.R + c.G + c.B) / 3);
+                    Bmp.SetPixel(x, y, Color.FromArgb(rgb, rgb, rgb));
+                }
+            return Bmp;
+        }
+        public List<Byte[]> ScreenToImageList(int Fragment, int ScreenIndex)
+        {
+            List<Byte[]> L = new List<byte[]>();
+            try
+            {
+                Byte[] Data = null;
+                Screen S = ListScreen[ScreenSelect];
+                if (ScreenSelect == 0) S = Screen.PrimaryScreen;
+
+                ScreenBoundX = S.Bounds.X;
+                bmp = new Bitmap(S.Bounds.Width, S.Bounds.Height, PixelFormat.Format32bppArgb);
+
+                var gfxScreenshot = Graphics.FromImage(bmp);
+
+                DateTime CapTime = DateTime.Now;
+                gfxScreenshot.CopyFromScreen(S.Bounds.X, S.Bounds.Y, 0, 0, S.Bounds.Size, CopyPixelOperation.SourceCopy);
+                BenCap = "C : " + (DateTime.Now - CapTime).TotalMilliseconds + "ms";
+
+                if (Image_Scale > 1)
+                {
+                    bmp = new Bitmap(bmp, new Size((int)(bmp.Width / Image_Scale), (int)(bmp.Height / Image_Scale)));
+                }
+
+                int pading = bmp.Width % Fragment;
+                int SpaceWith = (int)((bmp.Width - pading) / Fragment);
+
+                DateTime FragTime = DateTime.Now;
+
+                for (int i = 1; i <= Fragment; i++)
+                {
+                    MemoryStream ms = new MemoryStream();
+                    Rectangle rect = new Rectangle((i - 1) * SpaceWith, 0, SpaceWith, bmp.Height);
+                    if (i == Fragment) rect = new Rectangle((i - 1) * SpaceWith, 0, SpaceWith + pading, bmp.Height);
+
+                    Bitmap F = bmp.Clone(rect, bmp.PixelFormat);
+
+                    if (QualityImage == 0) DBase.CompressJpg(F, ms, 10);
+                    if (QualityImage == 1) DBase.CompressJpg(F, ms, 30);
+                    if (QualityImage == 2) DBase.CompressJpg(F, ms, 60);
+
+                    if (QualityImage == 3) F.Save(ms, System.Drawing.Imaging.ImageFormat.Jpeg);
+                    if (QualityImage == 4) F.Save(ms, System.Drawing.Imaging.ImageFormat.Png);
+
+                    Data = ms.ToArray();
+                    L.Add(Data);
+
+                }
+
+                BenFrag = "F: " + (DateTime.Now - FragTime).TotalMilliseconds + "ms";
+            }
+            catch (Exception ex)
+            {
+
+                DBase.LogException(ex.ToString());
+
+            }
+
+            return L;
+        }
+
+    }
+}
+
+
+
+
+   private void button1_Click(object sender, EventArgs e) //Test Image
+        {
+            Bitmap I = ScreenToImage(true);
+            string name = DBase.biDateTimeSave(DateTime.Now);
+            I.Save(name + ".jpg", ImageFormat.Jpeg);
+            //I.Save(name + ".png", ImageFormat.Png);
+            //Image I = ScreenToImage_BW();
+            //I.Save(DBase.biDateTimeSave(DateTime.Now) + ".bmp", ImageFormat.Bmp);
+            I.Save(DBase.biDateTimeSave(DateTime.Now) + ".png", ImageFormat.Png);
+            I.Save(DBase.biDateTimeSave(DateTime.Now) + ".jpg", ImageFormat.Jpeg);
+            //I.Save(DBase.biDateTimeSave(DateTime.Now) + ".exif", ImageFormat.Exif);
+            //I.Save(DBase.biDateTimeSave(DateTime.Now) + ".emf", ImageFormat.Emf);
+            I.Save(DBase.biDateTimeSave(DateTime.Now) + ".gif", ImageFormat.Gif);
+
+            //I.Save(DBase.biDateTimeSave(DateTime.Now) + ".Icon", ImageFormat.Icon);
+            //I.Save(DBase.biDateTimeSave(DateTime.Now) + ".Tiff", ImageFormat.Tiff);
+            //I.Save(DBase.biDateTimeSave(DateTime.Now) + ".wmf", ImageFormat.Wmf);
+
+            //Size newSize = new Size(Convert.ToInt32(1920), Convert.ToInt32(1080));
+            //Bitmap bp = DBase.ResizeImage(I, newSize);
+            //if (bp != null)
+            //    bp.Save(name + "_Compress1.jpg", System.Drawing.Imaging.ImageFormat.Jpeg);
+            //DBase.CompressJpg(I, name + "C2.jpg", 15);
+
+            Size sz = Screen.PrimaryScreen.Bounds.Size;
+            IntPtr hDesk = GetDesktopWindow();
+            IntPtr hSrce = GetWindowDC(hDesk);
+            IntPtr hDest = CreateCompatibleDC(hSrce);
+            IntPtr hBmp = CreateCompatibleBitmap(hSrce, sz.Width, sz.Height);
+            IntPtr hOldBmp = SelectObject(hDest, hBmp);
+            bool b = BitBlt(hDest, 0, 0, sz.Width, sz.Height, hSrce, 0, 0, CopyPixelOperation.SourceCopy | CopyPixelOperation.CaptureBlt);
+            Bitmap bmp = Bitmap.FromHbitmap(hBmp);
+            SelectObject(hDest, hOldBmp);
+            DeleteObject(hBmp);
+            DeleteDC(hDest);
+            ReleaseDC(hDesk, hSrce);
+            string filename = DBase.biDateTimeSave(DateTime.Now) + "2.jpg";
+            bmp.Save(filename, ImageFormat.Jpeg);
+            bmp.Dispose();
+
+
+
+
+
+
+        }

@@ -1,0 +1,91 @@
+Dozvolite kontrolu
+Molim, saopštite partneru svoj ID i lozinku kako biste dozvolili daljinsku kontrolu svog raèunara
+Vaš ID
+Lozinka
+Podesite lozinku
+Kontrolišite računar na daljinu
+Molim, unesite ID partnera kako biste se povezali na njegov raèunar
+ID Partnera
+Lozinka
+Povežite se sa partnerom
+Molim, restartujte da bi izmena imala efekta.
+Fajl
+Podešavanja
+Jezik
+Izlaz
+Opcija
+Spremno za povezivanje
+Povezivanje neuspešno
+Vreme za konekciju isteklo
+Nije moguæe preuzeti sadržaj partnerovog ekrana - partner se odjavljuje ili se ponovo loguje pod drugim imenim ili je minimizovao Remote Desktop
+Pogrešna lozinka
+Partner koristi stariju verziju od vaše
+Partner koristi noviju verziju od vaše
+Molim unesite ID partnera da biste se povezali
+ID mora da bude broj
+Molim unesite lozinku partnera
+Veæ ste povezani sa ovim partnerom
+Povezivanje u toku...
+Lozinke se ne poklapaju.
+Lozinka mora da bude dugaèka najmanje 4 znaka
+Podešena lozinka i naziv raèunara
+Podesite naziv i liènu lozinku za ovaj raèunar
+Naziv raèunara
+Lozinka
+Lozinka (ponovo)
+Otkaži
+Ok
+Ko kontroliše raèunar
+Vaš klijent
+Dnevnik èeta
+Preuzimanje mog ID...
+Inicijalizacija moje lozinke...
+Nije moguæe dobiti ID
+Nije moguæe dobiti lozinku
+Pomoæ
+UltraVjuer sajt
+O...
+Aktivna licenca
+Pribavite licencu
+Verzija:
+Licenca:
+Licenca koju posedujete ne omoguæava da kontrolišete više raèunara (kvota premašena). Da biste kontrolisali još raèunara, molim da pribavite proširenje kvote.
+Pogrešan licencni kljuè!
+Pogrešan email ili kljuè!
+Nemoguæ pristup serveru, molim pokušajte kasnije
+Hvala na registrovanju.
+Pogrešan Email!
+Broj Email
+Serijskog kljuèa
+Ova verzija je registrovana na %1
+Ukloni licencu
+Sigurni ste da želite uklanjanje licence?
+Licenca uspešno uklonjena!
+Pogrešan ID
+Besplatna verzija koju koristite može da se koristi za kontrolu samo  %1 raèunara meseèno. Za više raèunara molim pribavite dodatnu kvotu.
+Unesite Key
+Buy sada
+Aktivacija licence
+Unesite licencni kljuè kako biste koistili komercijalni nalog.
+Uneli ste ID sopstvenog raèunara. Unesite ID partnerovog raèunara.
+Vaš licencni kljuè nije validan na ovom raèunaru. Vaš licencni kljuè je onemoguæen.
+Povezivanje nemoguæe: partner nije pokrenuo UltraVjuer ili nije povezan na Internet.
+Vaš licencni kljuè je uklonjen sa sistema. 
+Molim idite na Fajl -> Aktivna licenca kako biste uklonili ovu licencu i instalirali novi licencni kljuè.
+Korisnièki taster
+Podesite taster za uklj/isklj èeta
+Pritisnite taster (1 taster)
+Pritisnite %1 za ukljuèenje/iskljuèenje èeta
+Verzija koju koristite je zastarela i možda neæe biti operativna. Molim, preuzmite novu verziju sa http://ultraviewer.net/sr/ i instalirajte je.
+Veza sa ID(%1) se prekinula. Želite li da pokušamo ponovo?
+&Da
+&Ne
+Veza se prekinula.\r\nÈekanje:  %1 sec...
+Mrežna podešavanja
+Podešavanja Proksija
+Proksi IP
+Port
+Automatski detektuj podešavanja (preporuèeno)
+Bez Proksija (direktno na Internet)
+Koristite ruèno podešen SSL proksi
+Sarađuju :

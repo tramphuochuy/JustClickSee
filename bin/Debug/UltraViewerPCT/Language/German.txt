@@ -1,0 +1,244 @@
+Fernsteuerung erlauben
+Bitte teilen Sie ihrem Partner die folgende ID und das Passwort mit, um die Fernsteuerung zu erlauben
+Ihre ID
+Passwort
+Eigenes Passwort
+Entfernten Computer steuern
+Bitte ID ihres Partners eingeben, um den Partner-Rechner fernzusteuern
+Partner ID
+Passwort
+Verbindung herstellen
+Bitte das Programm zur Uebernahme neu starten.
+Datei
+Einstellungen
+Sprache
+Beenden
+Optionen
+Bereit zum Verbinden
+Keine Verbindung zum Partner moeglich
+Zeitueberschreitung der Verbindung
+Im Moment kein Screenshot moeglich, der Partner beendet gerade die Verbindung, aendert den Benutzer oder hat das Fenster des Programms minimiert
+Falsches Passwort
+Der Partner benutzt eine aeltere Version als Sie
+Der Partner benutzt eine neuere Version als Sie
+Bitte Partner ID eingeben um zu verbinden
+ID muss eine Zahl sein
+Bitte Passwort des Partners eingeben
+Sie sind bereits mit dem Partner verbunden
+Verbinde zum Partner...
+Beide Passwoerter stimmen nicht ueberein.
+Das Passwort muss aus mindestens 4 Zeichen bestehen.
+Benutzerdefinertes Passwort und Computername
+Namen und Passwort fuer diesen Computer vergeben.
+Computer Name
+Passwort
+Passwort (wiederholen)
+Abbrechen
+Ok
+Wer betrachtet ihren Computer
+Ihr entfernter Client
+Chat Log
+Beziehe meine ID ...
+Initialisiere mein Passwort ...
+Kann ID nicht anfordern
+Kann Passwort nicht initialisieren
+Hilfe
+UltraViewer Website
+Ueber
+Aktive Lizenz
+Lizenz kaufen
+Version :
+Lizenz :
+Die Lizenz, die Sie benutzen kann nicht mehrere Computer fernsteuern. Um mehr Computer fernzusteuern, erwerben Sie bitte eine hoehere Lizenz.
+Falscher Seri-Key!
+Falsche Email oder Schluessel!
+Kann keine Verbindung zum Server herstellen, bitte spaeter erneut versuchen
+Danke fuer die Registrierung.
+Falsche Email!
+Email
+Seri-Key Nr.
+Diese Version wurde von %1 registriert
+Lizenz entfernen
+Wollen Sie die Lizenz wirklich entfernen?
+Lizenz erfolgreich entfernt!
+Falsche ID
+Die freie Version, die sie benutzen kann nur %1 entfernte(n) Computer ver pro Monat fernsteuern. Um mehr Computer fernzusteuern, erwerben Sie bitte eine hoehere Lizenz.
+Schluessel eingeben
+Jetzt kaufen
+Lizenz Aktivierung
+Bitte Ihren Lizenzschluessel eingeben um ein kommerzielles Konto zu nutzen.
+Sie haben die ID ihres eigenen Computers eingegeben. Bitte geben Sie die ID des entfernten Computers ein.
+Ihr Lizenzschluessel ist nicht zur Verwendung auf diesem Computer zugelassen.
+Ihr Lizenzschluessel ist deaktiviert.
+Keine Verbindung moeglich, ihr Partner hat UltraViewer nicht geoeffnet oder ist im Moment nicht mit dem Internet verbunden.
+Ihr Lizenzschluessel wurde vom System geloescht. Bitte gehen sie zu Datei -> Aktive Lizenz um diese Lizenz von ihrem Computer zu entfernen und einen neuen Lizenzschluessel zu installieren.
+Benutzerdefinierter Hotkey
+Hotkey festlegen zum Umschalten Chat An/Aus
+Hotkey druecken (1 Taste)
+%1 druecken zum Umschalten Chat An/Aus
+Ihre Version ist alt und funktioniert moeglicherweise nicht korrekt, wir haben eine neue Version, bitte von http://ultraviewer.net/de/ die neueste Version downloaden und installieren.
+Die Verbindung zwischen Ihnen und ID(%1) wurde unterbrochen. Wollen sie versuchen, die Verbindung wieder herzustellen?
+&Ja
+&Nein
+Die Verbindung wurde getrennt.\r\Warte fuer %1 Sekunde(n) verbleibend...
+Netzwerkeinstellungen
+Proxy Einstellungen
+Proxy IP
+Port
+Einstellungen automatisch finden (empfohlen)
+Kein Proxy (Direkt mit dem Internet verbinden)
+Manuellen SSL Proxy benutzen
+Zusammenarbeit :
+Generiere neues Passwort
+Passwort Laenge
+%1 Ziffern
+%1 Zeichen
+Zufaelliges Passwort deaktivieren
+Sicherheit
+UltraViewer auf Anmeldebildschirm
+UltraViewer auf Anmeldebildschirm nur bei 'Benutzer-Wechsel'
+UltraViewer auf Anmeldebildschirm anzeigen
+UltraViewer nicht auf Anmeldebildschirm anzeigen
+Auto Start
+UltraViewer mit Windows starten
+Zugriff
+Zeige UltraViewer
+Tastendruck senden
+Ich
+Ihr Partner kann sich nicht wieder verbinden, wenn sie UltraViewer schliessen. Wollen Sie UltraViewer tatsaechlich verlassen? 
+UltraViewer laeuft noch. Sie koennen sich noch mit folgender ID und Passwort anmelden
+UltraViewer wurde durch %1 gestartet
+Fernwartung & Netzwerk
+Sicherheit
+(Benoetigt Administrator-Rechte)
+Zeige UltraViewer
+Zeige Chat
+Minimieren
+Beim Schliessen von UltraViewer ueber (X) Button 
+Nur Minimieren bei aktiviertem 'Mit Windows starten'
+Immer in das System Tray minimieren
+Immer fragen, ob ich beenden will oder nicht
+Immer sofort beenden, ohne mich zu fragen
+Vor %1 Jahr(e) 
+Vor %1 Monat(e)
+Vor %1 Tag(e)
+Vor %1 Stunde(n)
+Vor %1 Minute(n)
+Gerade eben
+Zuletzt verbunden
+Phrasen verwalten
+Gelernte Phrasen
+Nr.
+Phrase
+Zuletzt verwendet
+Chat Einstellungen
+Phrasen-Vorschlag
+Chat Vorschlag aktivieren
+Automatisches Lernen von Phrasen
+Verschluesselte Datei (Fuer Komfort)
+RAM (Beim Schliessen von UltraViewer alle Passwoerter loeschen)
+Nur zufaellige Passworte speichern
+Speichern aller Passworte inkl. der benutzerdefinierten Passworte
+%1 Stunden
+Fuer Immer
+Passwort Speicherung
+Automatisches Finden
+
+Port 443
+Port 2112
+Passwort speichern in
+Benutzerdefiniertes Passwort speichern oder nicht
+Speicherungsdauer Passworte
+Gesp. Passworte loeschen
+Verb.-Verlauf loeschen
+Sind Sie sicher, dass sie alle gespeicherten Passworte loeschen wollen ?
+Sind Sie sicher, dass sie den gesamten Verbindungsverlauf loeschen wollen?
+Diesen Hotkey nur innerhalb des Fernwartungs-Fensters aktivieren
+   Aktionen
+   Anzeige
+   Bildschirm
+   Chat
+Qualitaet
+Auto Auswaehlen
+Optimiere Geschwindigkeit
+Optimiere Qualitaet
+Benutzereinstellungen
+Bearbeite Benutzereinstellungen
+Bildschirmgroesse
+Vollbildschirm
+Skaliert
+Entferntes Hintergrundbild zeigen
+Entfernten Cursor anzeigem
+Bildschirm erfassen
+Inhalt des Verzeichnisses oeffnen
+%1 schreibt...
+Verbindungseinstellungen
+Auswahl der Art der UltraViewer Internetverbindung
+Verbinden ueber Port
+Entfernten Cursor zeigen
+Loeschen
+Screenshot gespeichert als %1
+Farben
+256 Farben
+High Color
+Qualitaet
+Niedrige Qualitaet
+Hohe Qualitaet
+Originaleinstellungen wieder herstellen
+Sitzung auswaehlen
+Sie muessen eine Sitzung auswaehlen um sich zu verbinde
+Verbinden
+Benutzer
+Sitzungs ID
+Sitzung
+Chat log anzeigen
+Bitte versuchen Sie die Software erneut zu installieren. Wenn der Fehler immer noch auftritt, senden die diese Fehlermeldung an support@ultraviewer.net.
+Extra
+Ausnahme-Behandlung
+Fehler-Behandlung
+Wenn moeglich weitermachen, ohne den Fehler anzuzeigen
+Fehlernachricht zeigen
+Dehnbar
+Verwenden Sie Ihr Kontingent, um zu bezahlen
+Ihr Client (Support Empfaenger) zahlt
+
+
+Lizenz
+
+Waehlen Sie ihre Zahlungsmethode
+Lizenz fuer Supporter
+Dieser Computer wurde noch nicht dafuer registriert. Wenn Sie ein unterstuetzter Benutzer sind, klicken Sie auf den Register Button.
+Registrierung
+DLL Input Hook anschalten
+Der Computer %1 ( %2 ) versucht, sich mit ihen zu verbinden, aber Ihre UltraViewer Lizenz ist abgelaufen. Damit Sie weiter Unterstuetzung durch Partner erhalten, die UltraViewer benutzen, registrieren Sie sich fuer eine UltraViewer Lizenz.
+
+Supporter
+Frei
+Verbleibende Tage : %1 Tage
+Der Lizenschluessel des Computers ihres Partners ist abegelaufen. Bitte informieren Sie ihren Partner, sich fuer einen Lizenzschluesssel zu registrieren um weiter Support-Sitzungen erhalten zu koennen.
+Mehr info
+Schliessen
+Lizenz abgelaufen
+Ihre UltraViewer Lizenz ist abgelaufen. Wenn Sie weiter Support-Sitzungen durch andere Leute erhalten moechten, kaufen Sie bitte ein UltraViewer Lizenz.
+Diesen Dialog bitte nicht mehr zeigen
+Zahlungsaufforderung fuer den Support-Empfaenger nicht anzeigen
+Mehr kaufen
+UltraViewer Updates
+UltraViewer erlauben, Updates automatisch zu installieren?
+Ja
+Nein
+Partner Code
+Ihre ID eingeben
+Wenn Sie der Supporter sind, geben Sie bitte die Kontonr. ein, die Sie auf der Admin-Seite des Supporters erhalten haben.
+Zugangs-ID
+Die Zugangs-ID, die Sie eingegeben haben, ist ungueltig, pruefen sie bitte die ID-Nummer.
+Die Lizenz fuer den Support-Empfaenger verfaellt am %1.
+Lizenz fuer den Support-Empfaenger ist seit dem %1 abgelaufen.
+Lizenz verlaengern
+Automatisch vom Original Computer Namen erhalten
+Automatisch vom Konto-Namen erhalten
+Eigenen Namen vergeben
+Der Computer Name darf nicht leer oder mehr als 20 Zeichen sein.
+Computer Namen duerfen keine speziellen Zeichen wie / \ *,. " @ $ & <> enthalten...
+Zeige Logs
+

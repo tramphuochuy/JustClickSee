@@ -1,0 +1,247 @@
+Cho phép điều khiển
+Hãy gửi ID và Mật khẩu dưới đây cho đối tác nếu bạn muốn cho họ điều khiển máy tính của mình
+ID của bạn
+Mật khẩu
+Mật khẩu riêng
+Điều khiển máy tính khác
+Hãy nhập ID và Password của máy bạn cần điều khiển
+ID đối tác
+Mật khẩu
+Bắt đầu điều khiển
+Xin khởi động lại phần mềm để có hiệu lực.
+Tệp tin
+Thiết lập
+Ngôn ngữ
+Thoát
+Cấu hình
+Sẵn sàng kết nối
+Không thể kết nối
+Thời gian kết nối quá lâu (kết nối tới đối tác mất quá nhiều thời gian, có thể do tín hiệu mạng đang bị trục trặc hoặc đối tác vừa tắt UltraViewer), xin hãy thử lại sau.
+Không thể hiện thị hình ảnh vào lúc này, đối tác của bạn có thể đang log off hoặc đăng nhập vào user khác hoặc đang thu nhỏ cửa sổ remote desktop
+Sai mật khẩu
+Đối tác của bạn đang sử dụng phiên bản cũ hơn bạn.
+Đối tác của bạn đang sử dụng phiên bản mới hơn của bạn.
+Bạn chưa nhập ID cần kết nối
+ID phải là dạng số
+Bạn chưa nhập Password để kết nối
+Bạn đang điều khiển máy tính của người này rồi
+Đang kết nối...
+Hai mật khẩu điền không giống nhau
+Mật khẩu phải có tối thiểu 4 kí tự
+Mật khẩu riêng và tên máy tính
+Thiết lập tên máy tính của bạn và mật khẩu riêng.
+Tên máy tính
+Mật khẩu
+Nhập lại mật khẩu
+Bỏ qua
+Đồng ý
+Ai đang xem máy tính bạn
+Máy tính bạn đang xem
+Lịch sử chat
+Đang lấy ID ...
+Khởi tạo password ...
+Không thể lấy ID
+Không thể khởi tạo password
+Trợ giúp
+Trang chủ
+Giới thiệu
+Nhập seri-key bản quyền
+Mua bản quyền
+Phiên bản :
+Giấy phép :
+Tài khoản trả phí của bạn đã hết hạn nghạch điều khiển. Bạn có thể mua thêm hạn nghạch điều khiển hoặc vào mục Trợ giúp > Nhập seri-key bản quyền để gỡ bỏ tài khoản khỏi phần mềm.
+Sai số seri key
+Sai emai hoặc key!
+Không thể kết nối tới máy chủ, xin hãy thử lại sau
+Cám ơn bạn đã đăng ký bản quyền.
+Sai Email!
+Email
+Số Seri-Key
+Phiên bản đã được đăng ký bởi %1
+Gỡ bỏ license
+Bạn có chắc chắn muốn gỡ bỏ license ra khỏi phần mềm?
+Gỡ bỏ license thành công!
+Sai ID
+Phiên bản miễn phí mà bạn đang sử dụng chỉ điều khiển được %1 máy tính / tháng. Để điều khiển thêm máy tính của nhiều người khác, bạn có thể mua thêm hạn nghạch điều khiển.
+Nhập Key
+Đăng ký
+License dành cho người điều khiển
+Nhập số license key của bạn để điều khiển không giới hạn.
+Bạn đang nhập ID của chính mình. Để điều khiển, bạn phải nhập ID của 1 máy tính khác.
+License key của bạn không được thiết lập để sử dụng trên máy tính này.
+License key của bạn đang ở trạng thái ngừng hoạt động. 
+Không thể kết nối, đối tác của bạn không mở UltraViewer hoặc không có kết nối mạng.
+License key bạn đang sử dụng đã bị xóa khỏi hệ thống. Hãy vào mục Trợ giúp -> Đăng ký sử dụng để gỡ bỏ license key cũ và nhập lại license key mới.
+Thiết lập phím nóng
+Đặt phím nóng để chat nhanh
+Nhập phím (1 phím)
+Nhấn phím %1 để chat nhanh
+Phiên bản của bạn đã cũ và có thể sẽ không hoạt động tốt, xin tải phiên bản mới nhất tại website http://ultraviewer.net/vi/ và cài đặt lại.
+Kết nối giữa bạn và ID(%1) vừa bị mất. Bạn có muốn thử kết nối lại lần nữa?
+&Có
+&Không
+Kết nối bị mất.\r\nĐang chờ tín hiệu trong vòng %1 giây...
+Cấu hình kết nối
+Cấu hình proxy
+Proxy IP
+Port
+Tự động lựa chọn cách kết nối (khuyến cáo)
+Kết nối trực tiếp qua Internet
+Sử dụng Proxy SSL (HTTPS)
+Hợp tác :
+Tạo mật khẩu mới
+Độ dài mật khẩu
+%1 chữ số
+%1 ký tự chữ lẫn số
+Tắt mật khẩu ngẫu nhiên
+Bảo mật
+UltraViewer trên màn hình Winlogon
+Chỉ hiển thị UltraViewer trên Winlogon khi 'Switch User'
+Luôn luôn hiển thị trên UltraViewer Winlogon
+Không hiển thị UltraViewer trên Winlogon
+Tự động khởi động
+Chạy UltraViewer cùng với Windows
+Truy cập
+Hiện UltraViewer
+Tổ hợp phím
+Tôi
+Đối tác của bạn sẽ không thể kết nối sau khi bạn đóng UltraViewer. Bạn có chắc chắn muốn thoát UltraViewer?
+UltraViewer vẫn đang chạy. Bạn có thể kết nối với ID và mật khẩu sau
+UltraViewer được khỏi động bởi %1
+Điều khiển & kết nối
+Bảo mật
+(Yêu cầu quyền Administrator)
+Hiện UltraViewer
+Hiện cửa sổ chat
+Thu nhỏ
+Khi tôi bấm phím (X) để thoát UltraViewer
+Chỉ thu xuống khay hệ thống nếu tôi mở 'Chạy cùng với Windows'
+Luôn thu nhỏ xuống khay hệ thống
+Luôn hỏi tôi có muốn thoát UltraViewer hay không
+Thoát ngay lập tức, không cần hỏi
+%1 năm trước
+%1 tháng trước
+%1 ngày trước
+%1 giờ trước
+%1 phút trước
+vừa xong
+Lần kết nối cuối
+Quản lý cụm từ đã học
+Số câu đã học
+STT
+Cụm từ
+Thời gian
+Thiết lập chat
+Gợi ý chat
+Bật gợi ý chat
+Tự động học thêm cụm từ mới
+File mã hóa (để tiện lợi)
+Bộ nhớ RAM (password sẽ bị xóa khi thoát UltraViewer)
+Chỉ lưu lại password ngẫu nhiên
+Lưu lại tất cả password đã kết nối kể cả password riêng
+%1 giờ
+Vĩnh viễn
+Lưu trữ mật khẩu
+
+Tự động lựa chọn
+Port 443
+Port 2112
+Lưu trữ mật khẩu bằng
+Có lưu trữ mật khẩu riêng hay không
+Thời gian lưu trữ mật khẩu
+Xóa mật khẩu đã lưu
+Xóa lịch sử kết nối
+Bạn có chắc chắn muốn xóa mật khẩu đã lưu?
+Bạn có chắc chắn muốn xóa lịch sử kết nối?
+Chỉ dùng hotkey này khi tôi ở trong cửa sổ điều khiển
+   Thao tác
+   Hiển thị
+ Chụp hình
+   Chat
+Chất lượng hình ảnh
+Tự động lựa chọn
+Thiên về tốc độ
+Thiên về chất lượng
+Tùy chỉnh riêng
+Sửa lại tùy chỉnh
+Kích cỡ màn hình
+Full màn hình
+Cửa sổ theo tỷ lệ
+Hiển thị hình nền (Wallpaper)
+Hiển thị chuột
+Chụp ngay
+Mở thư mục chứa
+%1 đang gõ...
+Thiết lập kết nối
+Lựa chọn cách UltraViewer kết nối tới Internet
+Cổng kết nối
+Hiện chuột máy đối tác
+Xóa
+Màn hình đã chụp và lưu tại %1
+Màu sắc
+256 màu
+Đa màu
+Chất lượng
+Thấp
+Cao
+Khôi phục về ban đầu
+Lựa chọn phiên
+Bạn phải lựa chọn phiên để kết nối
+Kết nối
+Tài khoản
+ID Phiên
+Session
+Xem lịch sử chat
+(Hãy thử cài lại phần mềm, nếu vẫn bị lỗi xin gửi thông báo lỗi trên cho chúng tôi tới email support@ultraviewer.net)
+Thiết lập khác
+Xử lý khi gặp lỗi
+Lựa chọn cách UltraViewer xử lý khi gặp lỗi ngoại lệ
+Tiếp tục chạy phần mềm nếu có thể và không hiện lỗi
+Hiện thông báo hiển thị thông tin về lỗi
+Có thể kéo dãn
+Sử dụng hạn nghạch của bạn trả phí
+Người được hỗ trợ trả phí
+
+
+Thanh toán
+
+Cách bạn trả phí bản quyền cho UltraViewer
+License dành cho người được người khác hỗ trợ
+Máy tính này chưa đăng ký gói dành cho người được người khác hỗ trợ. Nếu bạn là người được hỗ trợ, bấm vào nút đăng ký dưới đây.
+Đăng ký
+Bật chế độ DLL Input Hook
+Máy tính %1 ( %2 ) vừa cố gắng kết nối tới bạn, tuy nhiên máy tính của bạn đã hết hạn bản quyền UltraViewer. Để tiếp tục nhận được phiên hỗ trợ từ các đối tác đang sử dụng UltraViewer, xin hãy đăng ký bản quyền dành cho người được hỗ trợ của UltraViewer. 
+
+Hỗ trợ viên
+Miễn phí
+Thời hạn được người khác hỗ trợ : %1 ngày
+Máy tính của đối tác bạn đang kết nối tới đã hết hạn bản quyền, vui lòng báo đối tác đăng ký bản quyền UltraViewer để tiếp tục nhận được phiên hỗ trợ từ xa.
+Tìm hiểu thêm
+Đóng
+Hết thời hạn được người khác hỗ trợ
+UltraViewer của bạn đã hết thời hạn sử dụng dành cho người được hỗ trợ. Nếu bạn muốn nhận được phiên hỗ trợ từ những người khác, xin hãy đăng ký bản quyền UltraViewer.
+Không hiển thị thêm thông báo này lần sau
+Không hiện thông báo nhắc thanh toán khi hết hạn
+Mua thêm
+Tự động cập nhật
+Bạn có muốn UltraViewer tự động cập nhật phiên bản mới hộ bạn?
+Có
+Không, để tôi tự cập nhật
+Nhập mã Affiliate
+Nhập ID của bạn
+Nếu bạn là người điều khiển, nhập ID tài khoản mà bạn lấy được trên trang quản trị dành cho người điều khiển.
+ID tài khoản
+ID tài khoản bạn vừa nhập không hợp lệ, vui lòng kiểm tra lại số ID
+Máy tính này sẽ còn hạn license dành cho người được hỗ trợ đến ngày %1.
+Máy tính này đã hết thời hạn sử dụng dành cho người được người khác hỗ trợ từ ngày %1.
+Gia hạn thêm
+Tự động lấy từ tên máy tính gốc
+Tự động lấy từ tên tài khoản
+Đặt tên riêng
+Tên máy tính không được bỏ trống và không được vượt quá 20 kí tự.
+Tên máy tính không được chứa các kí tự đặc biệt như / \ * , . " @ $ & <> ...
+Máy tính %1 vừa kết nối tới máy tính bạn
+Xem nhật kí
+Màn hình
+Màn hình %1
+Toàn bộ màn hình

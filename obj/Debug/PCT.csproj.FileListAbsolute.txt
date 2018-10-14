@@ -1,0 +1,78 @@
+C:\HUY\PCT 1.5\obj\Debug\PCT.exe
+C:\HUY\PCT 1.5\obj\Debug\PCT.pdb
+C:\HUY\PCT 1.5\bin\Debug\PCT.exe
+C:\HUY\PCT 1.5\bin\Debug\PCT.pdb
+C:\HUY\PCT 1.5\bin\Debug\System.Windows.Forms.dll
+C:\HUY\PCT 1.5\obj\Debug\GB.BundleConfig.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.ChatItem.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.ChatItem_Files.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.ChatItem_Image.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.Config.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.ConfirmPassword.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.Chat.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.ConfigAutoLogOn.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.ConfirmAuthencation.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.FileDownload.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.LOGON_HOME.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.DiaryBook.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.FileTransfer_Process.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.FileTransfer.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.FileItem.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.PCS.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.PCSList.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.PCS_Detail.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.Confirm.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.Login.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.LOGON.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.LOGON_ITEM.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.Properties.Resources.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.TextImage.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.Register.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.RunCMD.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.Window.resources
+C:\HUY\PCT 1.5\obj\Debug\GB.Z_Main.resources
+C:\HUY\PCT 1.5\obj\Debug\PCT.csproj.GenerateResource.Cache
+C:\HUY\PCT 1.5\bin\Debug\PCT.exe.config
+C:\HUY\PCT 1.5\obj\Debug\GB.NotePad.resources
+C:\HUY\PCT\bin\Debug\PCT.exe.config
+C:\HUY\PCT\obj\Debug\PCT.exe
+C:\HUY\PCT\obj\Debug\PCT.pdb
+C:\HUY\PCT\bin\Debug\PCT.exe
+C:\HUY\PCT\bin\Debug\PCT.pdb
+C:\HUY\PCT\bin\Debug\System.Windows.Forms.dll
+C:\HUY\PCT\obj\Debug\GB.BundleConfig.resources
+C:\HUY\PCT\obj\Debug\GB.ChatItem.resources
+C:\HUY\PCT\obj\Debug\GB.ChatItem_Files.resources
+C:\HUY\PCT\obj\Debug\GB.ChatItem_Image.resources
+C:\HUY\PCT\obj\Debug\GB.Config.resources
+C:\HUY\PCT\obj\Debug\GB.ConfirmPassword.resources
+C:\HUY\PCT\obj\Debug\GB.Chat.resources
+C:\HUY\PCT\obj\Debug\GB.ConfigAutoLogOn.resources
+C:\HUY\PCT\obj\Debug\GB.ConfirmAuthencation.resources
+C:\HUY\PCT\obj\Debug\GB.FileDownload.resources
+C:\HUY\PCT\obj\Debug\GB.LOGON_HOME.resources
+C:\HUY\PCT\obj\Debug\GB.DiaryBook.resources
+C:\HUY\PCT\obj\Debug\GB.FileTransfer_Process.resources
+C:\HUY\PCT\obj\Debug\GB.FileTransfer.resources
+C:\HUY\PCT\obj\Debug\GB.FileItem.resources
+C:\HUY\PCT\obj\Debug\GB.NotePad.resources
+C:\HUY\PCT\obj\Debug\GB.PCS.resources
+C:\HUY\PCT\obj\Debug\GB.PCSList.resources
+C:\HUY\PCT\obj\Debug\GB.PCS_Detail.resources
+C:\HUY\PCT\obj\Debug\GB.Confirm.resources
+C:\HUY\PCT\obj\Debug\GB.Login.resources
+C:\HUY\PCT\obj\Debug\GB.LOGON.resources
+C:\HUY\PCT\obj\Debug\GB.LOGON_ITEM.resources
+C:\HUY\PCT\obj\Debug\GB.Properties.Resources.resources
+C:\HUY\PCT\obj\Debug\GB.TextImage.resources
+C:\HUY\PCT\obj\Debug\GB.Register.resources
+C:\HUY\PCT\obj\Debug\GB.RunCMD.resources
+C:\HUY\PCT\obj\Debug\GB.Window.resources
+C:\HUY\PCT\obj\Debug\PCT.csproj.GenerateResource.Cache
+C:\HUY\PCT\obj\Debug\GB.Popup.resources
+C:\HUY\PCT\obj\Debug\GB.Translation.resources
+C:\HUY\PCT\obj\Debug\GB.ZMAIN.resources
+C:\HUY\JustClickSee\bin\Debug\PCT.exe.config
+C:\HUY\JustClickSee\obj\Debug\PCT.exe
+C:\HUY\JustClickSee\obj\Debug\PCT.pdb
+C:\HUY\JustClickSee\bin\Debug\JustClickSee.exe.config

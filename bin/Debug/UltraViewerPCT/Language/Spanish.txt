@@ -1,0 +1,237 @@
+Permitir Control Remoto
+Por favor, indíquele a su asociado la siguiente ID y contraseña si quiere permitir el acceso remoto
+Su ID
+Contraseña
+Contraseña Personalizada
+Controlar Computadora Remota
+Por favor, introduzca la ID de su asociado para controlar su computadora remotamente
+ID del Asociado
+Contraseña
+Conectarse al Asociado
+Por favor, reinicie el programa para que los cambios surtan efecto
+Archivo
+Configuración
+Idioma
+Salir
+Opción
+Listo para Conectar
+No pudo conectarse con este asociado
+Tiempo de Conexión expirado
+No se puede capturar la pantalla en este momento, su asociado no esta logeado o ha cambiado de usuario o ha minimizado el escritorio remoto
+Contraseña errónea
+Su asociado esta usando una versión más vieja que la suya
+Su asociado esta usando una versión más nueva que la suya
+Por favor, introduzca la ID de su asociado para conectar
+La ID debe ser un número
+Por favor, introduzca la contraseña de su asociado
+Ya se encuentra conectado a este asociado
+Conectando con el asociado...
+Ambas contraseñas no coinciden.
+La contraseña debe contener al menos 4 caracteres
+Contraseña y nombre de computadora personalizado
+Establezca un nombre y una contraseña personalizada para esta computadora.
+Nombre de la computadora
+Contraseña
+Contraseña (nuevamente)
+Cancelar
+Ok
+¿Quién está viendo su computadora?
+Su cliente remoto
+Historial de chat
+Obteniendo mi ID ...
+Inicializar mi Contraseña ...
+No se puede obtener la ID
+No se puede inicializar la Contraseña
+Ayuda
+Página de UltraViewer
+Acerca
+Licencia Activa
+Compre una Licencia
+Versión :
+Licencia :
+La Licencia que está usando no puede controlar más computadoras. Para controlar más, por favor compre una mayor cantidad de cupos.
+¡Número de Serie erróneo!
+¡Correo o clave errónea!
+No puede conectarse al servidor, por favor inténtelo más tarde
+Gracias por registrase.
+Correo erróneo
+Correo
+Número de Serie
+Esta versión ha sido registrada por %1
+Quitar Licencia
+¿Está seguro que quiere quitar la Licencia?
+¡Licencia quitada exitosamente!
+ID errónea
+La licencia gratis que Ud. está utilizando sólo puede controlar remotamente a %1 computadoras por mes. Para controlar más computadoras, por favor, compre más cupos.
+Introduzca la Clave
+Comprar ahora
+Activación de Licencia
+Introduzca su clave de Licencia para utilizar una cuenta comercial.
+Ha introducido la ID se su computadora. Por favor, introduzca la ID de la remota.
+Su clave de Licencia no se puede utilizar en esta computadora.
+Su Clave de Licencia está deshabilitada.
+No se puede conectar, su asociado no tiene abierto Ultraviewer o no se encuentra conectado a Internet ahora.
+Su Clave de Licencia ha sido borrada del sistema. Por favor vaya a Archivo -> Activar Licencia para remover esta Clave de Licencia de su computadora e instalar una nueva.
+Atajo de Teclado personalizado
+Establecer el Atajo de Teclado para iniciar/terminar el chat
+Presione el Atajo de Teclado (1 tecla)
+Presione %1 para iniciar/terminar el chat
+Su versión es vieja y puede no funcionar bien, tenemos una nueva versión, por favor descárgela de http://ultraviewer.net/en/ e instale la última versión
+La conexión entre Ud y el ID(%1) se ha perdido. ¿Quiere intentar conectar nuevamente?
+&Si
+&No
+La conexión se ha perdido.\r\nEsperando, quedan %1 segundo(s)...
+Configuración de Red
+Configuración de Proxy
+IP Proxy
+Puerto
+Detectar configuración automáticamente (recomendado)
+Sin Proxy (directo a Internet)
+Utilizar un proxy SSL manualmente
+Co-operar :
+Generar una nueva Contraseña
+Longitud de Contraseña
+%1 dígitos
+%1 caracteres
+Deshabilitar Contraseña aleatoria
+Seguridad
+UltraViewer en la Ventana de logueo de Windows
+Sólo mostrar UltraViewer en la ventana de logueo cuando se seleccione 'Cambiar de Usuario'
+Siempre mostrar UltraViewer en la ventana de logueo
+No mostrar UltraViewer en la ventana de logueo
+Autoinicio
+Ejecute UltraViewer al inicio de Windows
+Acceso
+Mostrar UltraViewer
+Enviar conjunto de teclas
+Yo
+Su asociado no podrá reconectarse después que Ud. cierre UltraViewer. ¿Está seguro que quiere salir de UltraViewer? 
+UltraViewer se está ejecutando aún. Aún se puede conectar la siguiente ID y Contraseña
+UltraViewer es iniciado por %1
+Control Remoto & Red
+Seguridad
+(Requiere privilegios de Administrador)
+Mostrar UltraViewer
+Mostrar chat
+Minimizar
+Cuando presione el botón (X) para cerrar UltraViewer
+Sólo minimizar en la bandeja de sistema si habilita 'Iniciar con Windows'
+Siempre minimizar en la bandeja de sistema
+Siempre preguntar antes de salir
+Salir siempre, no preguntarme
+%1 años atrás
+%1 meses atrás
+%1 días atrás
+%1 horas atrás
+%1 minutos atrás
+Justo ahora
+Conectado la última vez
+Administar Frase
+Frase aprendida
+No.
+Frase
+Usado por última vez
+Configuración del Chat
+Sugerencia de frase
+Habilitar sugerencia de chat
+Auto aprenda nuevas frases
+Encriptar archivo (por conveniente)
+RAM (toda Contraseña será eliminada después que cierre UltraViewer)
+Sólo guardar Contraseña aleatoria
+Guardar todas las Contraseñas implica la personalizada también
+%1 horas
+Por siempre
+Guardar Contraseña
+
+Auto detectar
+Puerto 443
+Puerto 2112
+Guardar Contraseña en
+Guardar Contraseña personalizada o no
+Duración de Contraseña guardada
+Eliminar la Contraseña guardada
+Eliminar historial de conexiones
+¿Está seguro que quiere eliminar todas las Contraseñas guardadas?
+¿Está seguro que quiere eliminar el historial de conexiones?
+Sólo habilite este Atajo de Teclado cuando esté en una ventana de control remoto
+   Acciones
+   Monitor
+   Pantalla
+   Chat
+Calidad
+Auto seleccione
+Optimice velocidad
+Optimice calidad
+Configuración personalizada
+Editar configuración personalizada
+Tamaño de Pantalla
+Pantalla Completa
+Mejor Escalado
+Mostrar Fondo de Pantalla Remoto
+Mostrar Cursor Remoto
+Capturar Pantalla
+Abrir carpeta de contenido
+%1 está escribiendo...
+Configuración de Conexión
+Seleccione como UltraViewer se conecta a internet
+Conecte usando el puerto
+Mostrar cursor remoto
+Eliminar
+Pantalla capturada y guardada en %1
+Colores
+256 Colores
+32768 Colores
+Calidad
+Baja Calidad
+Alta Calidad
+Restablecer al estado inicial
+Seleccionar sesiones
+Debe seleccionar una sesión para conectar
+Conectar
+Usuario
+ID de Sesión
+Sesión
+Ver historial del chat
+Por favor, intente reinstalar el software. Si este error persiste, por favor envíe este mensaje a support@ultraviewer.net.
+Extras
+Manejo de Excepción
+Cómo UltraViewer reacciona a algunos errores si estos ocurren
+Continue si es posible y no muestre error
+Muestre la casilla con el mesaje de error
+Extensible
+Usando su cupo para pagar
+Su cliente (quien recibe soporte) paga
+
+
+Pago
+
+Seleccione su modo de pago
+Licencia por Asistencia
+Esta computadora aún no se ha registrado para un . Si Ud. es un usuario siendo asistido, haga click en el botón abajo.
+Registrar
+Iniciar DLL Input Hook
+La computadora %1 ( %2 ) está intentando conectar con Ud., pero su Licencia de UlraViewer Licencia ha expirado. Para continuar recibiendo asistencia de asociados que estén usando UltraViewer, por favor regístrese para una Licencia de UltraViewer.
+
+Asistente
+Gratis
+Días remanentes: %1 días
+La Clave de Licencia de su asociado ha expirado. Por favor informe a su asociado que registre una Clave de Licencia para continuar recibiendo sesiones de soporte remoto.
+Más información
+Cerrar
+Licencia expirada
+Su Licencia de UltraViewer ha expirado. Si quiere recibir sesiones de asistencia remota de otra gente, por favor compre una Licencia de UltraViewer.
+No muestre esta casilla de diálogo nuevamente
+No muestre la solicitud de pago a quien recibe soporte cuando éste expira
+Compre más
+Actualizaciones de UltraViewer
+¿Permitir a UltraViewer instalar actualizaciones automáticamente?
+Si
+No
+Código de Afiliado
+Introduzca su ID
+Su Ud. es quien provee soporte, por favor introduzca el ID de cuenta que obtuvo en la página de administración para soporte.
+ID de cuenta
+El ID de cuenta introducido no es válido, por favor verifique el número de ID.
+La Licencia de quien recibe asistencia expirará en %1.
+La Licencia de quien recibe asistencia ha expirado desde %1.
+Extienda su Licencia

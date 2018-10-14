@@ -1,0 +1,91 @@
+Izinkan Kontrol Jarak Jauh
+Silakan beri tahu mitra Anda ID dan kata sandi berikut ini jika Anda akan mengizinkan kontrol jarak jauh
+ID Anda
+Kata sandi
+Kustom Sandi
+Kontrol Komputer Jarak Jauh
+Silakan masukkan ID mitra untuk mengontrol komputer dari jarak jauh.
+ID Mitra
+Kata sandi
+Koneksikan ke mitra
+Silakan restart untuk memiliki efek.
+Koneksi
+Ekstra
+Bahasa
+Keluar
+Opsi
+Siap dikoneksikan
+Tidak dapat koneksikan ke mitra ini
+Hubungkan waktu
+Tidak bisa menangkap screeen saat ini, pasangan tersebut log off atau switch pengguna atau diminimalkan remote desktop
+Kata sandi salah
+Mitra menggunakan versi yang lebih tua dari Anda
+Pasangan menggunakan versi yang lebih baru dari yang Anda
+Silahkan masukan ID mitra untuk menghubungkan
+ID harus berupa angka
+Silahkan masukan password dari pasangan Anda
+Anda sudah koneksikan ke mitra ini
+Menghubungkan ke mitra ...
+Kedua password tidak cocok.
+Sandi harus minimal 4 karakter
+Sandi kustom dan kustom nama komputer
+Menetapkan nama dan password pribadi untuk komputer ini.
+Nama komputer
+Kata sandi
+Kata sandi (lagi)
+Batalkan
+Ok
+Siapa yang melihat komputer Anda
+Klien remote Anda
+Riwayat obrolan
+Mendapatkan ID saya ...
+Init kata sandi ...
+Tidak bisa ID
+Tidak bisa init sandi
+Bantuan
+Situs web UltraViewer
+Tentang
+Lisensi aktif
+Beli Lisensi
+Versi:
+Lisensi:
+Lisensi yang Anda gunakan tidak bisa remote lebih komputer (kuota terlampaui). Untuk remote control lebih komputer, silahkan membeli lebih kuota.
+Kunci seri yang salah!
+Email yang salah atau kunci!
+Tidak dapat terhubung ke server, coba lagi nanti
+Terima kasih untuk terdaftar.
+Email yang salah!
+E-mail
+Nomor seri-key
+Versi ini telah terdaftar oleh %1
+Hapus lisensi
+Apakah Anda yakin ingin menghapus lisensi?
+Dihapus lisensi berhasil!
+Salah ID
+Lisensi gratis yang Anda gunakan hanya mampu remote control %1 komputer per bulan. Untuk remote control lebih komputer, silahkan membeli lebih kuota.
+Masukkan kunci
+Beli sekarang
+Aktivasi lisensi
+Masukan kunci lisensi Anda untuk menggunakan akun komersial.
+Anda telah memasuki ID dari komputer Anda sendiri. Silakan masukkan ID komputer remote.
+Kunci lisensi Anda tidak diizinkan untuk menggunakan komputer ini.
+Kunci lisensi Anda dinonaktifkan.
+Tidak dapat terhubung, pasangan Anda tidak membuka UltraViewer atau tidak terhubung ke internet sekarang.
+Kunci lisensi Anda dihapus dari sistem. Silahkan goto File -> lisensi aktif untuk menghapus lisensi ini dari komputer Anda dan menginstal kunci lisensi baru.
+Kustom tombol shortcut
+Set tombol shortcut untuk membuka/menutup obrolan
+Menekan (1 tombol)
+Menekan %1 untuk membuka/menutup obrolan
+Versi Anda sudah tua dan mungkin tidak bekerja baik, kami memiliki versi baru, silahkan download di http://ultraviewer.net/id/ dan menginstal versi terbaru.
+Hubungan antara Anda dan ID (%1) telah hilang. Apakah Anda ingin mencoba untuk menyambung kembali lagi?
+&Iya nih
+&Tidak
+Sambungan telah hilang. \r\nMenunggu %1 kiri kedua ...
+Pengaturan jaringan
+Pengaturan Proxy
+IP Proksi
+Port
+Mendeteksi secara otomatis pengaturan (merekomendasikan)
+Tidak ada Proxy (langsung ke internet)
+Gunakan SSL proxy manual
+Bekerja sama :

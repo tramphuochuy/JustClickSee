@@ -1,0 +1,247 @@
+Allow Remote Control
+Please tell your partner the following ID and Password if you would like to allow remote control
+Your ID
+Password
+Custom Password
+Control a Remote Computer
+Please enter your partner's ID to remote control your partner's computer
+Partner ID
+Password
+Connect to partner
+Please restart the software to have effect.
+File
+Settings
+Language
+Exit
+Options
+Ready to connect
+Cannot connect to this partner
+Connect time out
+Cannot capture screeen at the moment, the partner are logging off or switch user or minimized the remote desktop
+Wrong password
+The partner are using an older version than you
+The partner are using a newer version than you
+Please input Partner ID to connect
+ID must be a number
+Please input password of your partner
+You already connected to this partner
+Connecting to partner...
+Both passwords not matched.
+Password must be at least 4 characters
+Custom password and custom computer name
+Set a name and a personal password for this computer.
+Computer Name
+Password
+Password (again)
+Cancel
+Ok
+Who's viewing your computer
+Your remote client
+Chat Log
+Getting my ID ...
+Init my password ...
+Cannot get ID
+Cannot init password
+Help
+UltraViewer website
+About
+Active License
+Buy License
+Version :
+License :
+The license you are using cannot remote more computers. To remote control more computers, please purchase more quota.
+Wrong seri key!
+Wrong email or key!
+Cannot connect to server, please retry later
+Thank you for registered.
+Wrong Email!
+Email
+Seri-key number
+This version has been registered by %1
+Remove license
+Are you sure want to remove license ?
+Removed license successfully!
+Wrong ID
+The free license you are using is only able to remote control %1 computers per month. To remote control more computers, please purchase more quota.
+Enter Key
+Buy now
+License Activation
+Input your license key to use commercial account.
+You have entered the ID of your own computer. Please enter the ID of a remote computer.
+Your license key is not allowed to using on this computer.
+Your license key is disabled.
+Cannot connect, your partner is not opening UltraViewer or do not connected to internet now.
+Your license key is deleted from the system. Please goto File -> Active license to remove this license from your computer and install a new license key.
+Custom Hotkey
+Set hotkey for toggle chat on/off
+Press Hotkey (1 key)
+Press %1 to toggle chat on/off
+Your version is old and may not working good, we have a new version, please download it at http://ultraviewer.net/en/ and install the latest version.
+The connection between you and ID(%1) has been lost. Would you like to try to reconnect again ?
+&Yes
+&No
+The connection has been lost.\r\nWaiting for %1 second(s) left...
+Network Settings
+Proxy setting
+Proxy IP
+Port
+Automatically detect settings (recommend)
+No Proxy (directly to internet)
+Use manual SSL proxy
+Co-operate :
+Generate new password
+Password Length
+%1 digits
+%1 characters
+Disable random password
+Security
+UltraViewer on Winlogon screen
+Only show UltraViewer on Winlogon when 'Switch User'
+Always show UltraViewer on Winlogon
+Do not show UltraViewer on Winlogon
+Auto startup
+Run UltraViewer with Windows
+Access
+Show UltraViewer
+Send Keystroke
+Me
+Your partner will not able to re-connect after you closed UltraViewer. Are you sure want to exit UltraViewer? 
+UltraViewer is still running. You can still connect with following ID and Password
+UltraViewer is started by %1
+Remote Control & Network
+Security
+(Requires Administrator privilege)
+Show UltraViewer
+Show chat
+Minimize
+When I press the (X) button to close UltraViewer
+Only minimize to system tray if I enable 'Run with Windows'
+Always minimize to system tray
+Always ask me to exit or not
+Exit immediately, do not ask me
+%1 years ago
+%1 months ago
+%1 days ago
+%1 hours ago
+%1 minutes ago
+Just now
+Last Connected
+Manage Phrase
+Learned Phrase
+No.
+Phrase
+Last used time
+Chat Settings
+Phrase suggestion
+Enable chat suggestion
+Auto learn new phrases
+Encrypted file (for convenience)
+RAM (all password will be clear after close UltraViewer)
+Storage random password only
+Store all passwords including the custom password
+%1 hours
+Forever
+Password Storage
+
+Auto detect
+Port 443
+Port 2112
+Store Password In
+Password storage options
+Password storage duration
+Clear stored password
+Clear connection history
+Are you sure want to clear all stored password ?
+Are you sure want to clear all connection history?
+Only enable this hotkey when i'm inside remote controlling window
+   Actions
+   Display
+   Screen
+   Chat
+Quality
+Auto select
+Optimize speed
+Optimize quality
+Custom settings
+Edit Custom settings
+Screen Size
+Full Screen
+Best scaled
+Show Remote Wallpaper
+Show Remote Cursor
+Capture Screen
+Open contain folder
+%1 is typing...
+Connection Setting
+Select how UltraViewer connects to the internet
+Connect using port
+Show remote cursor
+Delete
+Screen captured and saved to %1
+Colors
+256 Colors
+High Color
+Quality
+Low Quality
+High Quality
+Reset to original state
+Select Session
+You must select a session to connect
+Connect
+User
+Session ID
+Session
+View chat log
+Please try to re-install the software. If this error still persistent, please send this error message to support@ultraviewer.net.
+Extra
+Exception Handling
+Error handling
+Resume if possible and do not show error
+Show the error message box
+Stretchable
+Using your quota to pay
+Your client (support recipient) pay
+
+
+License
+
+Select your payment mode
+License for supporter
+This computer has not yet registered for a . If you are a supported user, click the register button below.
+Register
+Turn on DLL Input Hook
+The computer %1 ( %2 ) is trying to connect to you, but your UltraViewer license has expired. To continue receiving support from partners who are using UltraViewer, please register for UltraViewer license.
+
+Supporter
+Free
+Days remaining : %1 days
+The license key of your partner's computer has been expired. Please inform your partner to register a license key to continue receiving remote support sessions.
+More info
+Close
+License expired
+Your UltraViewer license has expired. If you would like to receive remote support sessions from other people, please purchase UltraViewer license.
+Do not show this dialog box again
+Do not show payment prompt for support recipient when it expires
+Buy more
+UltraViewer updates
+Allow UltraViewer automatically install updates?
+Yes
+No
+Affiliate code
+Enter your ID
+If you're the supporter, please enter the account ID you obtained on the admin page for the supporter.
+Account ID
+The account ID you entered is not valid, please check the ID number.
+License for support recipient will be expire on %1.
+License for support recipient has been expired since %1.
+Extend your license
+Automatically retrieved from the original computer name
+Automatically retrieved from account name
+Give your own name
+The computer name must not be blank and must not exceed 20 characters.
+Computer names can not contain special characters such as / \ *,. " @ $ & <> ...
+Computer %1 just connected to you.
+View logs
+Active monitor
+Monitor %1
+Show all monitors

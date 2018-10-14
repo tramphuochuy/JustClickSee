@@ -1,0 +1,247 @@
+Permettre le contrôle
+Dites à votre partenaire le ID et mot de passe suivant si vous voulez lui permettre le contrôle à distance
+Votre ID
+MDP
+MDP perso.
+Contrôler un ordinateur
+Insérer le ID de votre partenaire pour contrôler son ordinateur à distance
+ID partenaire
+MDP partenaire
+Connecter au partenaire
+S.V.P. redémarrer le programme pour que les changements soient effectifs.
+Fichier
+Paramètres
+Langue
+Fermer
+Options
+Prêt pour la connexion
+Connexion au partenaire impossible
+Délai de connexion écoulé
+Capture d'écran impossible pour le moment, le partenaire s'est déconnecté, a changé d'utilisateur ou à minimiser le bureau à distance.
+Mauvais mot de passe
+Le partenaire utilise une version moins récente du logiciel que vous
+Le partenaire utilise une version plus récente du logiciel que vous
+Insérer le ID du partenaire pour vous connecter
+Le ID doit être des chiffres
+Insérer le mot de passe de votre partenaire
+Vous êtes déjà connecté à votre partenaire
+Connexion au partenaire...
+Les mots de passe ne concordent pas.
+Le mot de passe doit contenir au moins 4 caractères
+Mot de passe et nom d'ordinateur personnalisés
+Paramétrer un nom et un mot de passe pour cet ordinateur.
+Nom de l'ordinateur
+Mot de passe
+Mot de passe (encore)
+Annuler
+Ok
+Qui regarde votre ordinateur
+Votre client à distance
+Journal de clavardage
+Obtention du ID ...
+Initialiser mon mot de passe ...
+Obtention du ID impossible
+Initialisation du mot de passe impossible
+Aide
+Site web de UltraViewer
+À propos
+Activation de licence
+Acheter une licence
+Version :
+Licence :
+la licence que vous utilisez ne peut contrôler plus d'ordinateurs. Pour en contrôler d'avantages, veuillez acheter un plus gros quota.
+Mauvaise clé de série!
+Mauvais courriel ou clé de série!
+Impossible de se connecter au serveur, ressayer plus tard
+Merci de vous êtes enregistré.
+Mauvais courriel!
+Courriel
+Numéro série
+Cette version a été enregistré par %1
+Retirer la licence
+Êtes-vous sûr de vouloir retirer la licence ?
+Licence retiré avec succès!
+Mauvais ID
+La licence gratuite que vous utilisez ne peut que contrôler %1 ordinateurs par mois. Pour contrôler d'avantages d'ordinateurs, veuillez acheter un plus gros quota.
+Entrer votre clé
+Acheter maintenant
+Activation de la licence
+Insérer votre clé de licence pour utilisation commerciale.
+Vous avez insérer le ID de votre propre ordinateur. Veuillez insérer le ID d'un autre ordinateur.
+Il n'est pas permis d'utiliser votre clé de licence sur cet ordinateur.
+Votre clé de licence est désactivé.
+Connexion impossible, votre partenaire n'a pas ouvert UltraViewer ou n'est pas connecté à internet pour le moment.
+Votre clé de licence est supprimé du système. Veuillez vous diriger vers Fichiers -> Activation de la licence pour retirer cette licence de l'ordinateur et en insérer une nouvelle.
+Raccourcis clavier personnalisés
+Paramétrer raccourci clavier pour basculer la fenêtre de chat ouverte/fermée
+Appuyer sur le raccourci (1 touche)
+Appuyer sur %1 pour basculer la fenêtre de chat ouverte/fermée
+Votre version est vieille et pourrait ne pas fonctionner correctement, nous avons une nouvelle version, veuillez la télécharger au http://ultraviewer.net/fr/ et installer la dernière version.
+La connexion entre vous et le ID (&1) a été interrompu. Voulez-vous essayer de vous reconnecter à nouveau?
+&Oui
+&Non
+La connexion a été perdu.\r\nEn attente: %1 seconde(s) restante(s)...
+Paramètres réseau
+Paramètres de proxy
+IP du proxy
+Port
+Détecter les paramètres automatiquement (recommandé)
+Aucun proxy (directement sur internet)
+Utiliser un proxy SSL manuel
+Coopérer avec nous :
+Générer un nouveau mot de passe
+Longueur du mot de passe
+%1 chiffres
+%1 caractères
+Désactiver le mot de passe aléatoire
+Sécurité
+UltraViewer sur la fenêtre Winlogon 
+Afficher UltraViewer seulement lors de changement d'utilisateur
+Toujours afficher UltraViewer sur Winlogon
+Ne pas afficher UltraViewer sur Winlogon
+Démarrage automatique
+Exécuter UltraViewer avec Windows
+Accès
+Afficher UltraViewer
+Envoyer une frappe de touche
+Moi
+Votre partenaire ne pourra se reconnecter si vous fermez UltraViewer. Êtes-vous sur de vouloir fermer UltraViewer?
+UltraViewer est toujour en exécution. Vous pouvez toujours vous connecter à l'aide du ID et mot de passe.
+UltraViewer a été exécuté par %1
+Contrôle à distance & Réseau
+Sécurité
+(Requiert les droits administrateurs)
+Afficher UltraViewer
+Afficher le chat
+Minimiser
+Lorsque j'appuie sur le bouton (X) pour fermer UltraViewer
+Minimiser seulement si l'option 'Démarrer avec Windows' est active
+Toujours minimiser à la barre de tâche système
+Toujours me confirmer si quitter ou non
+Toujours quitter, ne jamais confirmer
+Il y a %1 an(s)
+Il y a %1 mois
+Il y a %1 jour(s)
+Il y a %1 heure(s)
+Il y a %1 minute(s)
+Maintenant
+Dernière connexion
+Gérer les phrases
+Phrase apprise
+Non.
+Phrase
+Dernière utilisation
+Paramètres du chat
+Suggestion de phrases
+Activer les suggestion du chat
+Apprendre de nouvelles phrases
+Fichier crypté (pour commodité)
+RAM (tous les mots de passes seront supprimés après la fermeture)
+Mot de passe aléatoire seulement
+Stocker tous les mots de passe, incluant ceux personnalisés
+%1 heure(s)
+Pour toujours
+Stockage de mot de passe
+
+Détection automatique
+Port 443
+Port 2112
+Stocker le mot de passe dans
+Option de stockage de mot de passe
+Durée du stockage de mot de passe
+Effacer mots de passe 
+Effacer histo. connexion
+Êtes-vous sûr de vouloir supprimer les mots de passe stockés?
+Êtes-vous sûr de vouloir supprimer l'historique de connexion?
+N'activer ce raccourci clavier que lorsque je suis en contrôle à distance
+   Actions
+   Affichage
+   Écran
+   Chat
+Qualité
+Sélection automatique
+Optimiser la vitesse
+Optimiser la qualité
+Paramètres personnalisés
+Éditer les paramètres personnalisés
+Grandeur de l'écran
+Plein écran
+Meilleure échelle
+Afficher le fond d'écran
+Afficher le curseur
+capture d'écran
+Ouvrir le dossier de contenu
+%1 est en train d'écrire...
+Paramètre de connexion
+Sélectionner comment UltraViewer se connecte à internet
+Se connecter en utilisant le port
+Afficher le curseur
+Supprimer
+Écran capturé et sauvegardé à %1
+Couleurs
+256 Couleurs
+Haute couleur
+Qualité
+Basse qualité
+Haute qualité
+Réinitiliser à l'état original
+Selectionner la session
+Vous devez sélectionner une session pour vous connecter
+Connecter
+Utilisateur
+ID de la session
+Session
+Voir le journal du chat
+Veuillez réinstaller le programme. Si cet erreur persiste, envoyez le message d'erreur à support@ultraviewer.net.
+Extra
+Manipulation d'exception
+En cas d'erreur
+Continuer si possible et ne pas afficher d'erreur
+Afficher la boîte de message d'erreur
+Extensible
+Utiliser votre quota pour payer
+Paie de votre client (destinataire du support)
+
+
+Licence
+
+Sélectionner une méthode de paiement
+Licence pour supporteur
+Cet ordinateur n'a pas été enregistré. Si vous êtes un utilisateur supporteur, appuyer sur le bouton Enregistrer plus bas.
+Enregistrer
+Activer le crochet d'entrée DLL (DLL Input Hook)
+L'ordinateur %1 ( %2 ) essaie de se connecter à vous, mais votre licence UltraViewer est expiré. Pour continuer de recevoir du support de vos partenaires utilisant UltraViewer, veuillez enregistrer votre licence UltraViewer.
+
+Supporteur
+Gratuit
+Jour(s) restant : %1 jour(s)
+La clé de licence de l'ordinateur de votre partenaire est expirée. Veuillez informer votre partenaire d'enregistrer une clé de licence pour continuer de recevoir du support à distance.
+Information additionnelle
+Fermer
+Licence expirée
+Votre licence UltraViewer est expirée. Si vous voulez recevoir du support à distance d'autres utilisateurs, veuillez acheter une licence UltraViewer.
+Ne plus afficher ce message
+Ne plus afficher d'invitation de paiement lorsque la licence expire
+Acheter plus
+Mise à jour UltraViewer
+Permettre à  UltraViewer d'installer les mises à jour automatiquement?
+Oui
+Non
+Code Affilié
+Insérer votre ID
+Si vous êtes supporteur, insérez votre ID de compte obtenu depuis la page administrateur pour supporteur.
+ID du compte
+Le ID du compte inséré est invalide, veuillez vérifier le numéro.
+La licence pour le destinataire du support expirera le %1.
+La licence pour le destinataire du support est expirée depuis le %1.
+renouveler votre licence
+Récupéré depuis le nom original de l'ordinateur
+Récupéré depuis le nom du compte
+Donner votre propre nom
+Le nom de l'ordinateur ne doit pas être vide et ne doit pas excéder 20 caractères.
+Le nom de l'ordinateur ne doit pas contenir de caractères spéciaux  tels que / \ *,. " @ $ & <> ...
+L'ordinateur %1 vient de se connecter à vous.
+Voir journaux
+Moniteur actif
+Moniteur %1
+Afficher tous les moniteurs

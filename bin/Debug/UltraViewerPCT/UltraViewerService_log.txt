@@ -1,0 +1,8 @@
+9/20/2018 11:31:34 AM : Service started
+9/20/2018 11:31:34 AM : is64bit = True
+9/20/2018 11:31:34 AM : Init Success
+9/20/2018 11:31:34 AM : ServiceStartup_Thread; StartAgrument=manually
+9/20/2018 11:53:44 AM : SSLogoff - 1 - Currentaccount:SYSTEM - FoundProcess:False
+9/20/2018 11:53:44 AM : ConsoleDisconnect - 1 - Currentaccount:SYSTEM ; UltraViewerRunOnLastConsoleDisconnect = True
+9/20/2018 11:53:45 AM : ConsoleConnect - 2- 2 - Currentaccount:SYSTEM, lastsessid=0 - FoundProcess :False
+9/20/2018 11:53:52 AM : SSLogon - 2-2 - Currentaccount:H - FoundProcess: False

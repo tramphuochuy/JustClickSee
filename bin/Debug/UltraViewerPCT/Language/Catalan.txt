@@ -1,0 +1,237 @@
+Permet el control remot
+Indiqueu aquestes credencials a la persona que connectarà remotament amb aquest ordinador:
+ID
+Contrasenya
+Clau personal
+Control remot
+Inseriu les credencials per controlar un ordinador remotament:
+ID remot
+Contrasenya
+Connecta
+Reinicieu per aplicar els canvis.
+Fitxer
+Configuració
+Idioma
+Surt
+Opcions
+Preparat per connectar
+No es pot connectar amb l'associat
+S'ha excedit el temps d'espera
+No es pot mostrar la pantalla. Sembla que l'associat ha tancat la sessió, canviat d'usuari o bé ha minimitzat l'escriptori remot
+Contrasenya no vàlida
+L'associat utilitza una versió obsoleta
+L'associat utilitza una versió més recent
+Inseriu la ID de l'associat per connectar
+La ID ha de ser un número
+Inseriu la contrasenya de l'associat
+Ja heu connectat amb aquest associat
+S'està connectant...
+Les contrasenyes no coincideixen.
+La contrasenya ha de ser almenys 4 caràcters
+Configuració del nom d'ordinador i contrasenya
+Inseriu un nom personalitzat i contrasenya per a aquest ordinador.
+Nom
+Contrasenya
+Contrasenya (novament)
+&Cancel·la
+D'&acord
+Qui veu aquest equip
+Client remot
+Registre del xat
+Obtenció d'una ID
+Generació de la clau
+No es pot obtenir una ID
+No es pot generar una contrasenya
+Ajuda
+Web de l'UltraViewer
+Quant a l'Ultraviewer ...
+Activació de la llicència
+Botiga
+Versió :
+Llicència :
+La llicència que estu utilitzant no us permet controlar més ordinadors. Per administrar més ordinadors, adquiriu un plan superior.
+Clau no vàlida!
+Clau o correu-e no vàlid!
+No es pot connectar amb el servidor. Proveu més tard
+Gràcies per registrar-vos.
+Correu-e no vàlid!
+Correu-e
+Llicència
+Aquesta versió l'ha registrat %1
+Suprimeix la llicència
+Segur que voleu suprimir la llicència?
+S'ha suprimit correctament!
+ID no vàlida
+La llicència gratuïta us permet controlar mensualment fins a %1 ordinadors. Per administrar més ordinadors, adquiriu un plan superior.
+Inseriu la clau
+Botiga
+Activació de la llicència
+Inseriu la vostra clau de llicència d'ús comercial.
+Heu inserit el número ID d'aquest equip. Inseriu l'ID de l'equip remot.
+No es permet l'ús d'aquesta llicènca en aquest ordinador.
+S'ha inhabilitat aquesta clau.
+No es pot connectar. L'associat no ha obert l'UltraViewer o no té connexió a Internet.
+S'ha suprimit la clau del sistema. Aneu a Fitxer -> Activació de la llicència per suprimir aquesta llicència i inserir una clau de llicència nova.
+Drecera personalitzada
+Drecera (només una tecla) per habilitar/inhabilitar el xat
+Drecera actual:
+La tecla %1 habilita/inhabilita el xat
+Esteu utilitzant una versió obsoleta i potser el comportament no és el desitjat. Baixeu la darrera versió des de: http://ultraviewer.net/ca/.
+S'ha perdut la connexió amb l'ID (%1). Voleu reintentar la connexió amb aquest ordinador?
+&Sí
+&No
+S'ha perdut la connexió.\r\nS'esperarà a l'associat durant %1 segons...
+Opcions de connexió
+Servidor intermediari
+IP
+Port
+Detecta la configuració automàticament (recomanat)
+Sense servidor intermediari (connexió directa a Internet)
+Utilitza un servidor intermediari SSL manual
+Col·laboreu:
+Genera una contrasenya nova
+Mida de la contrasenya:
+%1 dígits
+%1 caràcters
+Inhabilita la contrasenya aleatòria
+Seguretat
+UltraViewer a la pantalla d'inici de sessió del Windows:
+Mostra l'UltraViewer només en canviar d'usuari
+Mostra sempre l'UltraViewer a la pantalla d'inici de sessió
+No mostris mai l'UltraViewer a la pantalla d'inici de sessió
+Inici automàtic
+Inicia automàticament amb el Windows
+Accéss
+Mostra l'UltraViewer
+Envia combinació de tecles
+Usuari
+L'associat no podrà connectar amb aquest equip. Segur que voleu tancar l'UltraViewer? 
+Encara s'està executant l'UltraViewer. Podeu connectar amb aquestes credencials
+%1 ha iniciat l'UltraViewer
+Control remot i xarxa
+Seguretat
+(Requereix drets d'administrador)
+Mostra l'UltraViewer
+Mostra el xat
+Minimitza
+En fer clic al botó (X) de l'UltraViewer:
+Minimitza només si l'opció d'inici automàtic està habilitada
+Minimitza sempre a la barra de tasques
+Demana sempre si tancar o no l'aplicació
+No demanis i tanca immediatament
+Fa %1 anys
+Fa %1 mesos
+Fa %1 dies
+Fa %1 hores
+Fa %1 minuts
+Ara mateix
+Darrera connexió
+Administració de frases
+Frases apreses
+No.
+Frase
+Darrer ús
+Configuració del xat
+Suggeriment de frases
+Habilita el suggeriment al xat
+Aprèn frases automàticament
+En un fitxer xifrat (recomanat)
+A la memòria RAM (se suprimiran en tancar l'UltraViewer)
+Només emmagatzematge aleatori
+Emmagatzema-ho tot junt mb la clau personal
+%1 hores
+Sempre
+Contrasenyes
+
+Detecció automàtica
+Port 443
+Port 2112
+Desa les contrasenyes
+Emmagatzematge de contrasenyes personals
+Duració de l'emmagatzematge
+Neteja les contrasenyes
+Neteja l'historial
+Segur que voleu suprimir les contrasenyes desades?
+Segur que voleu netejar l'historial de connexions?
+Habilita la drecera només quan la finestra de control està activa
+   Accions
+   Visualitza
+   Pantalla
+   Xat
+Qualitat
+Selecció automàtica
+Optimitza per a rapidesa
+Optimitza per a qualitat
+Opcions personals
+Edita la configuració
+Mida de la pantalla
+Pantalla completa
+La millor resolució
+Mostra el fons d'escriptori remot
+Mostra el cursor remot
+Captura de pantalla
+Obre la carpeta contenidora
+%1 està escrivint...
+Configuració de la connexió
+Configureu com l'UltraViewer es connecta a Internet
+Connecta mitjançant:
+Mostra el cursor remot
+Suprimeix
+Captura de pantalla desada a %1
+Colors
+256 Colors
+Densitat alta
+Qualitat
+Baixa
+Alta
+Reinicia a l'estat original
+Selecció de la sessió
+Heu de seleccionar una sessió per connectar
+Connecta
+Usuari
+ID de sessió
+Sessió
+Mostra el registre del xat
+Reinstal·leu el programa novament. Si el problema persisteix, envieu un missatge (en anglès) amb error a support@ultraviewer.net.
+Extra
+Administració d'errors
+Configureu com actua l'UltraViewer en cas d'error
+Continua si és possible i no mostris cap error
+Mostra el missatge d'error
+Ajustable
+Utilitzeu la quota per pagar
+L'associat paga la quota
+
+
+Pagament
+
+Seleccioneu el `mètode de pagament
+Llicència d'afiliat
+Aquest ordinador encara no s'ha registrat. Si sou un usuari afiliat, feu clic al botó Registre.
+Registre
+Habilita l'administració de DLL
+L'ordinador %1 ( %2 ) està intentant connectar amb el vostre equip, però ha caduca la vostra llicència. Si necessiteu continuar rebent suport remot mitjançant l'UltraViewer, adquiriu una llicència nova.
+
+Afiliat
+Gratis
+Dies restants : %1 dies
+La clau de llicència del vostre associat ha caducat. Informeu-lo perquè adquireixi una llicència nova si continua necessitant suport remot.
+Més informació
+Tanca
+Llicència caducada
+Ha caducat la llicència de l'UltraViewer. Si voleu continuar rebent suport remot mitjançant l'UltraViewer, adquiriu una llicència.
+No tornis a mostrar més aquest missatge
+No tornis a mostrar el missatge de pagament en caducar el suport
+Adquireix més
+Actualitzacions de l'UltraViewer
+Voleu que l'UltraViewer instal·li actualitzacions automàticament?
+Sí
+No
+Codi d'afiliat
+Inseriu la llicència
+Si sou un usuari afiliat, inseriu l'identificador que us ha facilitat l'administrador.
+Identificador
+L'identificador no és vàlid. Verifiqueu el número ID.
+La llicència caducarà el %1.
+La llicència ha caducat el %1.
+Amplieu la llicència

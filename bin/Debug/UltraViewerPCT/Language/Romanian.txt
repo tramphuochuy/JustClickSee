@@ -1,0 +1,91 @@
+Permite Controlul
+Te rugăm să comunici partenerului următoarele date, ID-ul și parola, dacă doreşti, pentru a permite un control la distanță
+ID-ul Tău
+Parola
+Alege Parolă
+Controlul Calculatorului
+Te rugăm să introduci ID-ul partenerului tau pentru a controla de la distanță calculatorului partenerului
+ID Partener
+Parola
+Conectează-te la partener
+Te rugăm să reporneşti software-ul pentru a avea efect.
+File
+Setări
+Limba
+Ieşire
+Optiuni
+Pregătit de conectare
+Nu se poate conecta la acest partener
+Timpul de conectare terminat
+Nu se poate captura ecranul în acest moment, partenerul este delogat de la calculator sau este redus la minimum spațiul de lucru la distanță
+Parolă Greşită
+Partenerul utilizează o versiune mai veche decât tine
+Partenerul utilizează o versiune mai nouă decât tine
+Introdu ID-ul partenerului pentru a vă conecta
+ID-ul trebuie să fie un număr
+Introduceți Parola partenerului
+Eşti deja conectat la acest partener
+Conectare la partener ...
+Ambele parole nu se potrivesc.
+Parola trebuie să fie de minim 4 caractere
+Parolă personalizată și numele personalizat al calculatorului
+Setează un nume și o parolă personală pentru acest calculator.
+Nume calculator
+Parola
+Parola (din nou)
+Anulează
+OK
+Cine îţi vizitează calculatorul
+Clientul dvs. de la distanță
+Logul Chat-ului
+Obţine ID-ul meu ...
+Iniţiază parola mea ...
+Nu se poate obține ID-ul
+Nu pot iniţia Parola
+Ajutor
+Site-ul UltraViewer
+Despre
+Licența Activă
+Cumpărați Licență
+Versiune :
+Licență :
+Licența pe care o utilizezi nu se poate utiliza la distanță mai multe calculatore (cotă depășită). Pentru a controla mai multe calculatoare de la distanță, te rugăm să achiziționezi mai mult cotă.
+Cheie Serial greșită!
+E-mail greșit sau cheie greșită!
+Nu se poate conecta la server, te rugăm să încerci din nou mai târziu
+Îţi mulțumesc pentru înregistrare.
+Email gresit!
+E-mail
+Cheie Serial
+Această versiune a fost înregistrată de către %1
+Elimină licență
+Eşti sigur că doreşti să elimini licența?
+Licența a fost eliminată cu succes!
+ID-ul este greșit
+Licența gratuită pe care o utilizezi este capabilă de distanță pentru numai %1  calculatoare, pe lună . Pentru a controla mai multe calculatoare de la distanță, te rugăm să achiziționați mai mult cotă.
+Introduce cheia
+Cumpară acum
+Activare licenţă
+Introdu cheia ta de licență pentru a utiliza contul comercial.
+Ai introdus ID-ul de propriul calculator. Te rugăm să introduci ID-ul unui calculator la distanță.
+Cheia ta de licență nu este permisă pentru a se folosiți pe acest calculator.
+Cheia ta de licență este dezactivată.
+Nu se poate conecta, partenerul tau nu are deschis UltraViewer sau nu este conectat la internet acum.
+Cheia ta de licență este ștersă din sistem. Te rog mergi la  File -> Licență activă pentru a elimina această licență de pe calculator și a instala o nouă cheie de licență.
+Tasta rapidă personalizată
+Set de taste rapide pentru comutare chat-ul în modul pornit / oprit
+Apasă Tastă (1 tastă)
+Apăsă pe %1 pentru a comuta chat-ul în modul pornit / oprit
+Versiunea ta este veche și poate sa nu funcţioneze bine, avem o nouă versiune, te rugăm să-o descarci de la http://ultraviewer.net/ro/ și să-o instalazi.
+Legătura dintre tine și ID-ul(%1) a fost pierdută. Doreşti să încerci să te reconectați din nou?
+&Da
+&Nu
+Conexiunea a fost pierdută. Așteptați %1 secundă(e) ...
+Setari de reţea
+Setare proxy
+IP proxy
+Port
+Detectează automat setările (recomandat)
+Fără proxy (direct pe internet)
+Foloseşte SSL proxy manualul 
+Co-operare:

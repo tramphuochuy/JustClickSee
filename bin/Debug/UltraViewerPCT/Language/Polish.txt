@@ -1,0 +1,91 @@
+Zezwól na Połączenie
+Proszę o przekazanie numeru ID oraz Hasła partnerowi w celu zestawienia połączenia
+Twoje ID
+Twoje hasło
+Wlasne hasło
+Połącz się ze Komputerem
+Proszę wprowadzić numer ID oraz hasło komputera do którego chcesz sie połączyć
+Zdalne ID
+Zdalne hasło
+Połącz z komputerem
+Proszę uruchomić ponownie program aby zastosowac zmiany.
+Plik
+Ustawienia
+Język
+Wyjście
+Opcje
+Gotowy do połączenia
+Nie można połączyć się z komputerem zdalnym
+Upłynał limit czasu
+Nie można przechwycić obrazu. Twoj partner właśnie sie loguje, wylogowywuje, przełącza użytkownika, lub ma wyłączony program.
+Niewłaściwe Hasło
+Partner używa starszej wersji programu niz Twoja
+Partner używa nowszej wersji programu niz Twoja
+Proszę wprowadzić ID Partnera do połączenia
+ID musi być numerem
+Prosze wprowadzić Hasło Partnera
+Jesteś już połączony z tym komputerem
+Łąacze z komputerem
+Oba hasła nie pasują do siebie.
+hasło musi zawierać minimum 4 znaki
+Wlasne hasło i nazwa użytkownika
+Wprowadź nazwę i własne hasło do Tego Komputera.
+Nazwa Komputera
+Hasło
+Hasło - ponownie
+Anuluj
+Ok
+Kto przeglada Twój komputer
+Twój klient zdalny
+Zapis CHAT'u
+Pobieram swoje ID ...
+Inicjalizuje Hasło ...
+Nie mogę pobrać ID
+Nie mogę zainicjować Hasła
+Pomoc
+UltraViewer strona domowa
+O programie
+Aktywuj Licencję
+Kup Licencję
+Wersja :
+Licencja :
+Liczba połączen z posiadanej licencji zostala przekroczona. Aby zarządzac wiekszą ilościa komputerow rozszerz licencję.
+Niewłaściwy numer seryjny!
+Niewłaściwy adres email, lub klucz!
+Nie mogę połączyc się z serwerem, proszę spróbować później
+Dziękujemy za rejestrację.
+Niewłaściwy adres e-mail!
+E-mail
+Numer seryjny
+Ta wersja została zarejestrowana przez %1
+Usuń licencję
+Czy jesteś pewien ze chcesz usunąć licencje ?
+Licencja Usunięta!
+Niewłaściwy numer ID
+Licencja darmowa, która posiadasz pozwala na kontrolowanie %1 komputerów w ciagu miesiąca. Aby kontrolować większą ilość, rozszerz licencję.
+Wprowadź Klucz Licencyjny.
+Kup teraz
+Aktywacja Licencji
+Wprowadź numer licencji, aby korzystać z konta firmowego.
+Wprowadzono numer swojego komputera. Wprowadź numer ID komputera zdalnego.
+Twoja licencja nie zezwala na używanie tego komputera.
+Twój klucz licencyjny jest zablokowany.
+Nie można się połączyć. Twój partner nie uruchomił UltraViewer, lub nie ma aktywnego połączenia internetowego.
+Twój klucz licencyjny został usunięty z komputera.  Otworz Plik -> Aktywuj Licencje aby usunąć tą licencje i wprowadzić nowy klucz.
+Własny HotKey
+Ustaw klawisz skrótu do włączania/wyłączania chat'u
+Wciśnij Hotkey
+Wciśnij %1 aby włączyc/wyłączyc chat.
+Twoja wersja programu jest przestarzala i może nie dzialać wlaściwie, pobierz z http://ultraviewer.net/pl/ i zainstaluj najnowsza wersje.
+Połączenie pomiędzy Toba i Zdalnym ID(%1) zostało przerwane. Czy chciałbyś się połączyć ponownie ?
+&Tak
+&Nie
+Połączenie zostało utracone.\r\nCzekam jeszcze %1 sekund...
+Ustawienia Sieci
+Ustawienia Proxy
+Adres IP
+Port
+Automatycznie wykryj ustawienia (zalecane)
+Bez Proxy (bezpośrednie połączenie internetowe)
+Użyj recznych ustawień Proxy
+Podziękować :

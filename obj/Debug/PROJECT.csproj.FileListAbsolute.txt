@@ -1,0 +1,66 @@
+C:\Users\Administrator\Desktop\H2\bin\Debug\PCT.exe
+C:\Users\Administrator\Desktop\H2\bin\Debug\PCT.pdb
+C:\Users\Administrator\Desktop\H2\obj\Debug\GB.ChatItem.resources
+C:\Users\Administrator\Desktop\H2\obj\Debug\GB.Config.resources
+C:\Users\Administrator\Desktop\H2\obj\Debug\GB.ConfirmPassword.resources
+C:\Users\Administrator\Desktop\H2\obj\Debug\GB.Chat.resources
+C:\Users\Administrator\Desktop\H2\obj\Debug\GB.ConfigAutoLogOn.resources
+C:\Users\Administrator\Desktop\H2\obj\Debug\GB.ConfirmAuthencation.resources
+C:\Users\Administrator\Desktop\H2\obj\Debug\GB.Help.resources
+C:\Users\Administrator\Desktop\H2\obj\Debug\GB.LOGON_HOME.resources
+C:\Users\Administrator\Desktop\H2\obj\Debug\GB.DiaryBook.resources
+C:\Users\Administrator\Desktop\H2\obj\Debug\GB.FileTransfer_Process.resources
+C:\Users\Administrator\Desktop\H2\obj\Debug\GB.FileTransfer.resources
+C:\Users\Administrator\Desktop\H2\obj\Debug\GB.FileItem.resources
+C:\Users\Administrator\Desktop\H2\obj\Debug\GB.PCS.resources
+C:\Users\Administrator\Desktop\H2\obj\Debug\GB.PCS_Detail.resources
+C:\Users\Administrator\Desktop\H2\obj\Debug\GB.Confirm.resources
+C:\Users\Administrator\Desktop\H2\obj\Debug\GB.Hub.resources
+C:\Users\Administrator\Desktop\H2\obj\Debug\GB.Login.resources
+C:\Users\Administrator\Desktop\H2\obj\Debug\GB.LOGON.resources
+C:\Users\Administrator\Desktop\H2\obj\Debug\GB.LOGON_ITEM.resources
+C:\Users\Administrator\Desktop\H2\obj\Debug\GB.Properties.Resources.resources
+C:\Users\Administrator\Desktop\H2\obj\Debug\GB.TextImage.resources
+C:\Users\Administrator\Desktop\H2\obj\Debug\GB.Register.resources
+C:\Users\Administrator\Desktop\H2\obj\Debug\GB.RunCMD.resources
+C:\Users\Administrator\Desktop\H2\obj\Debug\GB.Window.resources
+C:\Users\Administrator\Desktop\H2\obj\Debug\GB.Z_Main.resources
+C:\Users\Administrator\Desktop\H2\obj\Debug\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\H2\obj\Debug\PCT.exe.licenses
+C:\Users\Administrator\Desktop\H2\obj\Debug\PCT.exe
+C:\Users\Administrator\Desktop\H2\obj\Debug\PCT.pdb
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.3\bin\Debug\PCT.exe
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.3\bin\Debug\PCT.pdb
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\bin\Debug\PCT.exe
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\bin\Debug\PCT.pdb
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\GB.ChatItem.resources
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\GB.Config.resources
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\GB.ConfirmPassword.resources
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\GB.Chat.resources
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\GB.ConfigAutoLogOn.resources
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\GB.ConfirmAuthencation.resources
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\GB.Help.resources
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\GB.LOGON_HOME.resources
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\GB.DiaryBook.resources
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\GB.FileTransfer_Process.resources
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\GB.FileTransfer.resources
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\GB.FileItem.resources
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\GB.PCS.resources
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\GB.PCS_Detail.resources
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\GB.Confirm.resources
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\GB.Hub.resources
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\GB.Login.resources
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\GB.LOGON.resources
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\GB.LOGON_ITEM.resources
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\GB.Properties.Resources.resources
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\GB.TextImage.resources
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\GB.Register.resources
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\GB.RunCMD.resources
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\GB.Window.resources
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\GB.Z_Main.resources
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\PCT.exe.licenses
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\PCT.exe
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.4\obj\Debug\PCT.pdb
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.5\obj\Debug\PCT.exe
+C:\Users\Administrator\Desktop\HUY\Persona Viewer 1.5\obj\Debug\PCT.pdb
